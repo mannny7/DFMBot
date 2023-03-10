@@ -11,6 +11,7 @@ Now type into the command prompt window `cd [path to the folder]`
 
 To find the path of the folder click the bar at the top of the explorer window shown in the image below
 ![Capture](https://user-images.githubusercontent.com/38955706/224390029-6008c889-8463-4c1d-9990-224e93a9de7f.PNG)
+
 Copy it and use it in the command
 
 So in this example I'd type into the command prompt `cd C:\Users\manny\Downloads\DFMBot-main (1)\DFMBot-main`
