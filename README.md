@@ -26,4 +26,6 @@ If you get an error about pip not being installed google a tutorial on how to in
 
 If all goes well now type `python main.py` this will run the python script.
 
+![image](https://user-images.githubusercontent.com/38955706/224390905-b60008ca-8a41-4acb-b0fc-3119975fb1f5.png)
+
 Try to do some problem solving yourself but if you need anymore help message me on Discord `Manny.#0001`
