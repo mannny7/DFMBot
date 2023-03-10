@@ -20,7 +20,6 @@ So in this example I'd type into the command prompt `cd C:\Users\manny\Downloads
 
 This will direct the command prompt to the folder with the code
 
-
 Now type `pip install -r requirements.txt` 
 
 If you get an error about pip not being installed google a tutorial on how to install pip (it basically comes included when installing python so make sure you have python downloaded)
