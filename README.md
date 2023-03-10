@@ -16,6 +16,8 @@ Copy it and use it in the command
 
 So in this example I'd type into the command prompt `cd C:\Users\manny\Downloads\DFMBot-main (1)\DFMBot-main`
 
+![image](https://user-images.githubusercontent.com/38955706/224390606-c1eac929-1e8e-46d2-a0da-c2c0b67247f1.png)
+
 This will direct the command prompt to the folder with the code
 
 
